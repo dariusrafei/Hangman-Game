@@ -1,0 +1,29 @@
+#jumbotron {
+  margin-top: 20px;
+}
+
+#container {
+  width: 60%;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #dddddd;
+  margin: 10% auto;
+  text-align: center;
+}
+
+#letters a{
+  color: green;
+  background-color: darkgray;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#letters a:hover{
+  color: red;
+}
+
+#letters a .d{
+  color: yellow;
+  text-decoration: underline;
+}
